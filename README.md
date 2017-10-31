@@ -1,5 +1,5 @@
 # php_User-full-info-database
-For create National ID, CV, University ID, Organization emploee ID. 
+For create National ID, CV, University ID, Organization employee ID. 
 Login, logout.
 Data verification.
 Database connection. 
