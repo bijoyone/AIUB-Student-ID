@@ -3,5 +3,5 @@
 These are-
 Login, logout,
 Data verification,
-Database connection, 
-Retrive info from database.
+Database connection, Address, search,
+Retrieve info from database.
