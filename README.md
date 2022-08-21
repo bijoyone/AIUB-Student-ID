@@ -8,5 +8,6 @@ Retrieve info from database.
 
 - PHP
 - Java Script
+- CSS
 - Bootstrap
 - LAMP stack
